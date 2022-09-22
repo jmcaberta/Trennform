@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/09/22 19:43:41.448,=C:\Users\Caberta-Haufe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/22 19:55:52.570,C:\Delphi pro\TrennFormular\TrennForm.dfm=C:\Users\Caberta-Haufe\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/09/22 19:55:52.570,C:\Delphi pro\TrennFormular\TrennForm.pas=C:\Users\Caberta-Haufe\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/22 19:56:02.820,C:\Delphi pro\TrennFormular\ProjectTrenn.dproj=C:\Users\Caberta-Haufe\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
