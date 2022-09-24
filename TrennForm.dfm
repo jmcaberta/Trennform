@@ -1,9 +1,9 @@
-object Form1: TForm1
+object Trennformular: TTrennformular
   Left = 0
   Top = 0
   Width = 773
   Height = 534
-  Anchors = [akLeft, akTop, akRight, akBottom]
+  Anchors = [akTop, akRight]
   AutoScroll = True
   Caption = 'Trennform'
   Color = clMoneyGreen
@@ -59,6 +59,13 @@ object Form1: TForm1
     Anchors = [akTop, akRight]
     Caption = 'Trennen'
     TabOrder = 3
+    OnClick = trennenClick
     ExplicitLeft = 496
+  end
+  object Import: TOpenTextFileDialog
+    FileName = 'C:\Program Files (x86)\Embarcadero\Studio\21.0\bin\adortl270.bpl'
+    FilterIndex = 0
+    Left = 704
+    Top = 80
   end
 end
